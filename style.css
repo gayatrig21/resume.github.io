@@ -1,0 +1,57 @@
+.container{
+	/*position:relative;*/
+	width:100%;
+	max-width: 1000px;
+	min-height: 1600px;
+	background: #fff;
+	display: grid;
+	grid-template-columns: 1fr 2fr;
+	box-shadow: 0 35px 55px rgba(0,0,0,0.1);
+}
+.container .leftside{
+	/*position: relative;*/
+	background: #003147;
+	/*padding: 40px;*/
+
+}
+.container .rightside{
+	position: relative;
+	background: #ffffe0;
+	/*padding: 40px;*/
+	
+}
+
+/*img{
+	border-radius: 50%;
+	left: 1px;
+ height: 300px;
+}*/
+
+.Education{
+	font-size: 20px;
+	margin-left: 10px;
+}
+.project{
+	font-size: 20px;
+	margin-left: 10px;
+}
+.achivements{
+	font-size: 20px;
+	margin-left: 10px;
+}
+.skill{
+	font-size: 20px;
+	color: #ffffff;
+	
+}
+
+}
+
+
+
+
+
+
+
+
+
